@@ -1,0 +1,32 @@
+h2{
+    text-transform: uppercase;
+    margin-top: 100px;
+    text-align: center;
+}
+main{
+    width: 210mm;
+    height: 297mm;
+    margin: auto;
+}
+.szoveg{
+    margin-top: 200px;
+    line-height: 10mm;
+    margin-bottom: 100px;
+    font-size: large;
+}
+.kitoltendo{
+    margin-left: 27ch;
+}
+.datum{
+    margin-top: 50mm;
+    margin-bottom: 30mm;
+    font-size: large;
+}
+.haziorvos{
+    display: flex;
+    text-align: center;
+    justify-content: flex-end;
+    line-height: 15mm;
+    font-size: large;
+    padding-right: 30mm;
+}
